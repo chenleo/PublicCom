@@ -3,6 +3,8 @@ PublicCom
 
 ### 妇女节Github & IPy Notebook 小组扫盲交流活动
 
+- 活动内容：[这里](http://nbviewer.ipython.org/github/chenleo/PublicCom/blob/master/Outline.ipynb)
+
 - 时间：
     - 2014年3月8日，上午10点开始，结束时间未定。
 
